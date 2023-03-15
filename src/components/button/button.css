@@ -1,0 +1,14 @@
+.button-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #373737;
+    box-shadow: 0px 3px 6px #00000029;
+    padding: 15px;
+    cursor: pointer;
+    margin: 15px;
+}
+
+.button-text {
+    font: normal normal normal 14px/19px Roboto;
+}
